@@ -1,0 +1,4 @@
+runtime: python
+spec:
+  entrypoint: main.py
+  requirements: requirements.txt
